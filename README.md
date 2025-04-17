@@ -1,16 +1,13 @@
 # pandas-signals
 
-Signal processing functions for financial time series using Pandas.
+Signal processing tools for technical trading logic using Pandas.  
+Inspired by AmiBroker-style signal handling like `ExRem`, `Flip`, and `ValueWhen`.
 
-## Functions
+---
 
-- `exrem(primary, secondary)`
-- `flip(primary, secondary)`
-- `valuewhen(expr, array, n=1)`
+## 📦 Installation
 
-Inspired by AmiBroker signal logic.
-
-## Installation
+### From GitHub (Latest Development Version)
 
 ```bash
-pip install pandas-signals
+pip install git+https://github.com/marketcalls/pandas_signals_library.git
