@@ -11,3 +11,11 @@ Inspired by AmiBroker-style signal handling like `ExRem`, `Flip`, and `ValueWhen
 
 ```bash
 pip install git+https://github.com/marketcalls/pandas_signals_library.git
+```
+ 
+
+### From Pypi 
+
+```bash
+pip install pandas-signals
+```
